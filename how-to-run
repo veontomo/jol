@@ -1,0 +1,2 @@
+from the folder \classes\artifacts\jol_parent_jar\, run the command line:
+java -javaagent:InstrumentationAgent.jar  -jar jol-parent.jar externals java.lang.String
